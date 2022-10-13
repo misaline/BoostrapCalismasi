@@ -1,0 +1,135 @@
+body {
+    font-size: small;
+
+}
+
+.renk {
+    color: black;
+
+}
+
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-lg,
+.navbar>.container-md,
+.navbar>.container-sm,
+.navbar>.container-xl,
+.navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.roww {
+    align-items: baseline;
+}
+
+
+i {
+    color: #f25d50;
+
+}
+
+
+a {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    color: #f25d50;
+}
+
+.borderr {
+    border: 1px solid #f25d50;
+}
+
+.cizgi {
+    border: 0.5px solid rgba(237, 237, 237, 0.514);
+}
+
+.but {
+    background-color: #f25d50;
+    border: 1px solid #f25d50;
+    color: white;
+}
+
+.renk2 {
+    background-color: #96d9c6;
+}
+
+.fontt {
+    font-size: 30px;
+    /*emexso yazısı için*/
+}
+
+h1 {
+    font-size: 60px;
+    color: #021f59;
+}
+
+.yazi {
+    color: #021f59;
+    font-size: 20px;
+
+}
+
+.uzak {
+    margin-top: 10%;
+}
+
+div.renk2 {
+    height: 648px;
+}
+
+h2 {
+    font-size: 40px;
+    color: #021f59;
+
+}
+
+.bos {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.card {
+
+    border: 0px;
+
+}
+
+.sizee {
+    font-size: 40px;
+
+
+}
+
+.abo {
+    color: #f25d50;
+}
+
+.renk3 {
+    background-color: #f5f5eb;
+}
+
+
+
+h5 {
+    font-size: 15px;
+
+}
+
+
+.textt {
+    text-align: left;
+    height: 70px;
+
+}
+
+.uzun {
+    height: 100px;
+}
+
+.boyut {
+    height: 250px;
+}
